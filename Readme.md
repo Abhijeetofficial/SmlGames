@@ -11,7 +11,7 @@ This small game is made by me as a part of my front-end learning phase.
 - The game works offline, without any server.
 
 ---
-##Rules to play-
+## Rules to play-
 
 - It is a two player game
 - Follow the instructions given in the game.
